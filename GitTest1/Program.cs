@@ -12,6 +12,7 @@ namespace GitTest1
         {
             Console.WriteLine("Hello word!");
             Console.WriteLine("Hello word from br1!");
+            Console.WriteLine("Hello word from br1 test 2!");
         }
     }
 }
