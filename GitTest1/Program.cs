@@ -10,6 +10,9 @@ namespace GitTest1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello word!");
+            Console.WriteLine("Hello word from br1!");
+            Console.WriteLine("Hello word from br1 test 2!");
             Console.WriteLine("Hello word!1");
         }
     }
